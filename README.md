@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thelastmikeonearth
+- 👋 Hi, I’m Michael Damico.
 - 👀 I’m interested in computer science and game development.
 - 🌱 I’m currently learning Godot.
 - 💞️ I’m looking to collaborate on whatever
